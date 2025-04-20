@@ -1,1 +1,2 @@
 # Hydro-Health-Insights-Water-Pollution-and-Its-Correlation-with-Typhoid-cases
+Hydro Health Insights is an interactive dashboard that conducts a comprehensive exploratory data analysis of water pollution and its correlation with typhoid incidence. Utilizing Microsoft Power BI, the project visualizes critical data trends, enabling stakeholders to understand the impact of water quality on public health and inform decision-making.
